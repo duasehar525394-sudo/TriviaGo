@@ -1,0 +1,24 @@
+{
+  "name": "TriviaGo",
+  "short_name": "TriviaGo",
+  "description": "Ultimate trivia quiz app across multiple subjects",
+  "start_url": "/TiviaGo/",
+  "display": "standalone",
+  "background_color": "#8A2BE2",
+  "theme_color": "#8A2BE2",
+  "categories": ["entertainment", "games", "education"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
